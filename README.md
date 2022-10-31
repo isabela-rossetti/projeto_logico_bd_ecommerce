@@ -3,7 +3,7 @@ Projeto desenvolvido com o objetivo de construir o projeto lógico do Banco de D
 
  O projeto conceitual pode ser visto na imagem abaixo:
 
-![e-commerce](https://github.com/isabela-rossetti/projeto_conceitual_bd_ecommerce/blob/main/e-commerce.png)
+![e-commerce_refinado](https://github.com/isabela-rossetti/projeto_logico_bd_ecommerce/blob/main/e-commerce_refinado.png)
 
 Mais arquivos relacionados ao projeto conceitual podem ser vistos no seguinte link: 
 
